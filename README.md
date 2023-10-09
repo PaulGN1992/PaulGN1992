@@ -67,21 +67,6 @@ Mi búsqueda es continua: colaborar en proyectos emocionantes y seguir creciendo
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=PaulGN1992&show_icons=true&count_private=true&hide_border=true" align="left" style="heigh: 200px" />
-
-
-
-
-
-
-<br/>  
-
-  
 
 <br/>  
 
