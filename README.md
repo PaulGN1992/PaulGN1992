@@ -20,7 +20,7 @@
 
 
 ###  Haciendo magia en el código 💻  
-🚀 Full Stack Developer con una trayectoria diversa, inicialmente en otros sectores antes de enamorarme de la programación. Mis habilidades sólidas en trabajo en equipo, adaptabilidad y resolución de problemas son el resultado de ese viaje. Especializado en Front-end y diseño web, mi caja de herramientas incluye HTML, CSS, JavaScript, React y Node.js. No obstante, también tengo experiencia en el Back-end y bases de datos como PostgreSQL y Sequelize. 💻
+🚀 Full Stack Developer, inicialmente con trayectoria en otros sectores antes de enamorarme de la programación. Mis habilidades sólidas en trabajo en equipo, adaptabilidad y resolución de problemas son el resultado de ese viaje. Especializado en Front-end y diseño web, mi caja de herramientas incluye HTML, CSS, JavaScript, React y Node.js. No obstante, también tengo experiencia en el Back-end y bases de datos como PostgreSQL y Sequelize. 💻
 
 Aplico metodologías ágiles, especialmente SCRUM, para garantizar entregas eficientes y de alta calidad. Mi enfoque abarca resolución de problemas, diseño gráfico, UX y UI. Valoro la comunicación efectiva y me enorgullezco de mi compromiso con la calidad del código. 📊
 
