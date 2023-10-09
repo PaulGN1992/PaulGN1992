@@ -70,16 +70,14 @@ Mi búsqueda es continua: colaborar en proyectos emocionantes y seguir creciendo
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PaulGN1992&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=PaulGN1992&show_icons=true&count_private=true&hide_border=true" align="left" style="heigh: 200px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulGN1992&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+
+
+
 
 <br/>  
 
