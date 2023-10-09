@@ -1,5 +1,8 @@
 ## Hi there!!👋, I'm Paul Gamarra!  
-  
+
+<div align="center">
+<img src="https://img.freepik.com/foto-gratis/collage-fondo-programacion_23-2149901771.jpg?w=900&t=st=1696827961~exp=1696828561~hmac=4edbdb400b7c2fab368adfef457d6f5dd7a5f571f159abb4f631723fad61c807" align="center" height="300" width="600" />
+</div>  
 
 <div align="center">
 <a href="https://github.com/PaulGN1992" target="_blank">
@@ -25,16 +28,6 @@ Mi búsqueda es continua: colaborar en proyectos emocionantes y seguir creciendo
   
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://img.freepik.com/foto-gratis/collage-fondo-programacion_23-2149901771.jpg?w=900&t=st=1696827961~exp=1696828561~hmac=4edbdb400b7c2fab368adfef457d6f5dd7a5f571f159abb4f631723fad61c807" align="center" height="300" width="" />
-</div>  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -67,6 +60,23 @@ Mi búsqueda es continua: colaborar en proyectos emocionantes y seguir creciendo
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 </div>  
 
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PaulGN1992&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulGN1992&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
 
 <br/>  
 
