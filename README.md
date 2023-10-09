@@ -29,7 +29,7 @@ Mi búsqueda es continua: colaborar en proyectos emocionantes y seguir creciendo
 <table><tr><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://img.freepik.com/foto-gratis/collage-fondo-programacion_23-2149901771.jpg?w=900&t=st=1696827961~exp=1696828561~hmac=4edbdb400b7c2fab368adfef457d6f5dd7a5f571f159abb4f631723fad61c807" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/foto-gratis/collage-fondo-programacion_23-2149901771.jpg?w=900&t=st=1696827961~exp=1696828561~hmac=4edbdb400b7c2fab368adfef457d6f5dd7a5f571f159abb4f631723fad61c807" align="center" height="300" width="" />
 </div>  
 
 
